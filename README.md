@@ -23,7 +23,7 @@ Notes App позволяет создавать, редактировать и �
 
 1. Склонируйте репозиторий:
    ```sh
-   git clone https://github.com/your-username/notes-app.git
+   git clone https://github.com/Atambek07/notes-app.git
    ```
 2. Откройте файл `index.html` в браузере.
 
